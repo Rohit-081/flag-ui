@@ -1,5 +1,8 @@
 This is just after.
 #git init
 #git status
-#git add file name
+#git add <file name>
 #git commit -m "message"
+#git restore <file name>
+#git log
+#git reset <id>
